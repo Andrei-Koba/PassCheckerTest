@@ -1,0 +1,9 @@
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\bin\Debug\PassChecherTest.dll
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\bin\Debug\PassChecherTest.pdb
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\bin\Debug\PassCheck.dll
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\bin\Debug\Rhino.Mocks.dll
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\bin\Debug\PassCheck.pdb
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\bin\Debug\Rhino.Mocks.xml
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\obj\Debug\PassChecherTest.csprojResolveAssemblyReference.cache
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\obj\Debug\PassChecherTest.dll
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassChecherTest\obj\Debug\PassChecherTest.pdb

@@ -1,0 +1,5 @@
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassCheck\bin\Debug\PassCheck.dll
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassCheck\bin\Debug\PassCheck.pdb
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassCheck\obj\Debug\PassCheck.csprojResolveAssemblyReference.cache
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassCheck\obj\Debug\PassCheck.dll
+D:\Andrew\NET_Lab\Day2\PassCheckerTest\PassCheck\obj\Debug\PassCheck.pdb
